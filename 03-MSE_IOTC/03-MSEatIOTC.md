@@ -1,13 +1,13 @@
 ---
 title:  OVERVIEW OF THE EVALUATION OF MANAGEMENT PROCEDURES IN THE IOTC
-author: Iago Mosqueira, EC JRC G03
+author: Iago Mosqueira, EC JRC & Toshihide Kitakado, TUMST
 date: MPD02 - 26 April 2015
 rights:  Creative Commons Share Alike 4.0
 ---
 
 # Working Party on Methods
 
-# WPM Timeline
+# WPM MSE Timeline
 
 - WPM04 (2012)
 - WPM MSE01 (APR 2013)
@@ -39,13 +39,18 @@ rights:  Creative Commons Share Alike 4.0
 # Further details
 
 # 
-
 \centering\vfill\footnotesize
+
+Iago MOSQUEIRA
+
+European Commission Joint Research Centre, IPSC G03, Ispra (IT) *iago.mosqueira@jrc.ec.europa.eu*
+
+\includegraphics[width=0.15\textwidth]{graphics/ECJRC.png}
 
 Toshihide KITAKADO
 
 Tokyo University of Marine Science and Technology, Tokyo (JP) *kitakado@kaiyodai.ac.jp*
 
-Iago MOSQUEIRA
+\includegraphics[width=0.1\textwidth]{graphics/TUMST.png}
 
-EC JRC, IPSC Maritime Affairs G04, Ispra (IT) *iago.mosqueira@jrc.ec.europa.eu*
+
