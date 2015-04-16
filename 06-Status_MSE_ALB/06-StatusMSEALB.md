@@ -5,25 +5,41 @@ date: MPD02 - 26 April 2015
 rights:  Creative Commons Share Alike 4.0
 ---
 
-# An example MP
+# An example MP: QCPUE
 
-- Limits
-- Data
-- Tuning
+- Data: One CPUE series
+- Output: Total catch (TAC)
+- Tuning: 
+	- Quantiles
+	- Delta
+- Lags:
+	- Science: 2 years
+	- Management: 1 year
+- Error:
+	- CPUE observation
+	- Implementation
 
 # A run of the past
 
-# Tuning the past
 
 # Looking at the future
 
-- 3 scenarios
+- 3 SR scenarios
 
 # Trade-offs
 
+- Margin of manouver vs. risk (Quantiles)
+- Speed of response vs. risk (Delta)
+
 # Future work
 
+- Environmental factors
+-
+
 # Further details
+
+- All code is Open Source
+
 
 # 
 
@@ -31,6 +47,6 @@ rights:  Creative Commons Share Alike 4.0
 
 Iago MOSQUEIRA
 
-European Commission Joint Research Centre, IPSC Maritime Affairs G03, Ispra (IT) *iago.mosqueira@jrc.ec.europa.eu*
+European Commission Joint Research Centre, IPSC G03, Ispra (IT) *iago.mosqueira@jrc.ec.europa.eu*
 
-\includegraphics[width=0.15\textwidth]{graphics/ECJRC.png}
+\includegraphics[width=0.20\textwidth]{graphics/ECJRC.png}
