@@ -51,3 +51,16 @@ dev.off()
 
 # Error
 
+png(file='obs.png')
+plot(stock(om), probs=c(0.20, 0.40, 0.50, 0.60, 0.80)) +
+	theme(axis.text.y=element_blank())
+dev.off()
+
+
+tac <- data.frame(year=2012, data=33000)
+names(tac)[2] <- '50%'
+png(file='imp.png')
+plot(FLQuants(Catch=iterMeans(catch(om)))) +
+	geom_point(data=tac, pch=19, cex=2) +
+	geom_point(data=tac, pch=19, cex=1.5, colour='red')
+dev.off()
