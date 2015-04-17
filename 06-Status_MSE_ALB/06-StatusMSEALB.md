@@ -7,8 +7,8 @@ rights:  Creative Commons Share Alike 4.0
 
 # An example MP: QCPUE
 
-- Data: One CPUE series
 - Output: Total catch (TAC)
+- Data: One CPUE series
 - Tuning: 
 	- Quantiles
 	- Delta
@@ -19,6 +19,44 @@ rights:  Creative Commons Share Alike 4.0
 	- CPUE observation
 	- Implementation
 
+# An example MP: QCPUE
+
+- Output: Total catch (TAC)
+
+\centering\includegraphics[width=0.70\textwidth]{diagrams/tac.png}
+
+# An example MP: QCPUE
+
+- Data: One CPUE series
+
+\centering\includegraphics[width=0.70\textwidth]{diagrams/cpue.png}
+
+# An example MP: QCPUE
+
+- Tuning: Quantiles
+
+\centering\includegraphics[width=0.70\textwidth]{diagrams/quant.png}
+
+# An example MP: QCPUE
+
+- Tuning: Delta
+
+\centering\includegraphics[width=0.70\textwidth]{diagrams/delta.png}
+
+# An example MP: QCPUE
+
+- Lags: Science & Management
+
+\centering\includegraphics[width=0.70\textwidth]{diagrams/HCRsteps.png}
+
+# An example MP: QCPUE
+
+- Error: Observation & Implementation 
+
+\centering
+\includegraphics[width=0.45\textwidth]{diagrams/obs.png}
+\includegraphics[width=0.45\textwidth]{diagrams/imp.png}
+
 # A run of the past
 
 
@@ -28,18 +66,17 @@ rights:  Creative Commons Share Alike 4.0
 
 # Trade-offs
 
-- Margin of manouver vs. risk (Quantiles)
+- Margin of manoeuvre vs. risk (Quantiles)
 - Speed of response vs. risk (Delta)
 
 # Future work
 
-- Environmental factors
--
+- Environmental factors: Recruitment
+- Alternative MPs
 
 # Further details
 
 - All code is Open Source
-
 
 # 
 
