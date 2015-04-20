@@ -7,6 +7,10 @@ rights:  Creative Commons Share Alike 4.0
 
 # Working Party on Methods
 
+- To review and analyse methodological issues relevant to the assessment of the status of species under the IOTC mandate (outcomes are usually applicable to many of the other Working Parties).
+
+\centering\includegraphics[width=0.75\textwidth]{graphics/iotcwpm.png}
+
 # WPM MSE Timeline
 
 - WPM04 (2012)
@@ -20,8 +24,9 @@ rights:  Creative Commons Share Alike 4.0
 ## ALB
 
 - Base OM
-- Tests 1st MP
+- Tests initial MPs
 - Simulation framework
+
 
 ## SKJ
 
@@ -29,14 +34,38 @@ rights:  Creative Commons Share Alike 4.0
 - Tests initial MPs
 - Simulation framework
 
-# Current work
+# Programme of Work 2015
 
-# Future work
+## ALB & SKJ
+	- Finalise OMs
+	- Alternative MP
+	- Complete set of runs
+	- WPM06 - OCT 2015
 
-- WPM MSE04, 5-8 May 2015
+## BET & YFT
+	- Initial OMs
+
+## Presentation tools
+
+# Work Constraints
+
+- Deadlines in Resolution 14/03
+
+- **SC RECOMMENDED** that the Commission fully fund the work needed to support its requirement to achieve its objectives in particular facilitating the implementation of Resolution 12/01
+
+- SC-2014-SC17-R, Page 340
+
+# Future steps
+
+## Meetings
+- WPM MSE04 (MAY 2015)
 - WPM06 (OCT 2015)
 
-# Further details
+## Peer Review ALB & SKJ
+- Internal Peer Review
+	- WPM/SC members w/ model authors
+- External Peer Review
+	- Invited experts
 
 # 
 \centering\vfill\footnotesize
@@ -45,12 +74,11 @@ Iago MOSQUEIRA
 
 European Commission Joint Research Centre, IPSC G03, Ispra (IT) *iago.mosqueira@jrc.ec.europa.eu*
 
-\includegraphics[width=0.15\textwidth]{graphics/ECJRC.png}
+\centering\includegraphics[width=0.15\textwidth]{graphics/ECJRC.png}
 
 Toshihide KITAKADO
 
 Tokyo University of Marine Science and Technology, Tokyo (JP) *kitakado@kaiyodai.ac.jp*
 
 \includegraphics[width=0.1\textwidth]{graphics/TUMST.png}
-
 
