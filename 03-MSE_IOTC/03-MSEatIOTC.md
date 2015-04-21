@@ -13,33 +13,76 @@ rights:  Creative Commons Share Alike 4.0
 
 # WPM MSE Timeline
 
-- WPM04 (2012)
-- WPM MSE01 (APR 2013)
-- WPM MSE02 (OCT 2013)
-- WPM MSE03 (MAR 2014)
-- WPM05 (2014)
+## 2012
+- WPM04 (OCT)
 
-# Work so far
+## 2013
+- WPM MSE01 (APR)
+- WPM MSE02 (OCT)
 
-## ALB
+## 2014
+- WPM MSE03 (MAR)
+- WPM05 (DEC)
+
+# ALB
+
+- Base OM
+
+\centering\includegraphics[width=0.6\textwidth]{graphics/albom.png}
+
+# ALB
+
+- Base OM
+- Tests initial MPs
+
+\centering\includegraphics[width=0.6\textwidth]{graphics/R1e.png}
+
+- Simulation framework
+
+# ALB
 
 - Base OM
 - Tests initial MPs
 - Simulation framework
 
+\centering\includegraphics[width=0.6\textwidth]{graphics/ghalb.png}
 
-## SKJ
+# SKJ
+
+- Base OM
+
+\centering\includegraphics[width=0.6\textwidth]{graphics/albom.png}
+
+# SKJ
+
+- Base OM
+- Tests initial MPs
+
+\centering\includegraphics[width=0.6\textwidth]{graphics/R1e.png}
+
+- Simulation framework
+
+# SKJ
 
 - Base OM
 - Tests initial MPs
 - Simulation framework
+
+\centering\includegraphics[width=0.6\textwidth]{graphics/ghskj.png}
+
+# YFT & BET
+
+- Initial proposal
+- Funding source and contract for leading team
 
 # Programme of Work 2015
 
 ## ALB & SKJ
 	- Finalise OMs
-	- Alternative MP
+	- Alternative MPs
 	- Complete set of runs
+		- Comparison of MPs across objectives
+		- Trade-offs
 	- WPM06 - OCT 2015
 
 ## BET & YFT
@@ -51,9 +94,7 @@ rights:  Creative Commons Share Alike 4.0
 
 - Deadlines in Resolution 14/03
 
-- **SC RECOMMENDED** that the Commission fully fund the work needed to support its requirement to achieve its objectives in particular facilitating the implementation of Resolution 12/01
-
-- SC-2014-SC17-R, Page 340
+- **SC RECOMMENDED** that the Commission fully fund the work needed to support its requirement to achieve its objectives in particular facilitating the implementation of Resolution 12/01 (SC-2014-SC17-R, Page 340)
 
 # Future steps
 
@@ -81,4 +122,3 @@ Toshihide KITAKADO
 Tokyo University of Marine Science and Technology, Tokyo (JP) *kitakado@kaiyodai.ac.jp*
 
 \includegraphics[width=0.1\textwidth]{graphics/TUMST.png}
-
