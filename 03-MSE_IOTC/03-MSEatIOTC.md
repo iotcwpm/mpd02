@@ -78,15 +78,15 @@ rights:  Creative Commons Share Alike 4.0
 # Programme of Work 2015
 
 ## ALB & SKJ
-	- Finalise OMs
-	- Alternative MPs
-	- Complete set of runs
-		- Comparison of MPs across objectives
-		- Trade-offs
-	- WPM06 - OCT 2015
+- Finalise OMs
+- Alternative MPs
+- Complete set of runs
+	- Comparison of MPs across objectives
+	- Trade-offs
+- WPM06 - OCT 2015
 
 ## BET & YFT
-	- Initial OMs
+- Initial OMs
 
 ## Presentation tools
 
