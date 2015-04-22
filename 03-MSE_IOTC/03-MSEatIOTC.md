@@ -37,8 +37,6 @@ rights:  Creative Commons Share Alike 4.0
 
 \centering\includegraphics[width=0.6\textwidth]{graphics/R1e.png}
 
-- Simulation framework
-
 # ALB
 
 - Base OM
@@ -60,8 +58,6 @@ rights:  Creative Commons Share Alike 4.0
 
 \centering\includegraphics[width=0.6\textwidth]{graphics/R1e.png}
 
-- Simulation framework
-
 # SKJ
 
 - Base OM
@@ -73,7 +69,7 @@ rights:  Creative Commons Share Alike 4.0
 # YFT & BET
 
 - Initial proposal
-- Funding source and contract for leading team
+- Multispecific considerations
 
 # Programme of Work 2015
 
